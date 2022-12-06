@@ -14,7 +14,7 @@
             {
                 amount += trans;
             }
-
+            var ok = 0;
             return amount;
         }
     }
